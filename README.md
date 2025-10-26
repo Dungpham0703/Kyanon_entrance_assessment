@@ -9,12 +9,12 @@ Ensure you have the following installed:
     - `pandas`
 ## Installation
   Clone the repository:
-    ```bash
+    ```
     git clone https://github.com/Dungpham0703/Kyanon_entrance_assessment.git
     ```
 ## Usage
 To run the pipeline:
 Run the script:
-    ```bash
+    ```
     python -m src.main.py
     ```
