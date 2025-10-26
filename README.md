@@ -14,7 +14,8 @@ Ensure you have the following installed:
     ```
 ## Usage
 To run the pipeline:
-Run the script:
-    ```
-    python -m src.main.py
-    ```
+    Run the script:
+        ```
+        python -m src.main.py
+        ```
+        and you will see the report.csv in data folder. Thank you for visiting!
