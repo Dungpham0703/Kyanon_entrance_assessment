@@ -14,7 +14,7 @@ Ensure you have the following installed:
     ```
 ## Usage
 To run the pipeline:
-2. Run the script:
+Run the script:
     ```bash
     python -m src.main.py
     ```
