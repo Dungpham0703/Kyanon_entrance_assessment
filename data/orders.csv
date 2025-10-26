@@ -1,0 +1,11 @@
+order_id,order_date,customer_id,amount,status
+1,2025-09-01,1001,250,completed
+2,2025-09-01,1002,300,pending
+3,2025-09-02,1001,100,completed
+4,2025-09-02,1003,500,completed
+5,2025-09-03,1004,200,pending
+6,2025-09-03,1002,150,completed
+7,2025-09-04,1005,350,completed
+8,2025-09-05,1003,400,pending
+9,2025-09-05,1006,100,completed
+10,2025-09-06,1004,300,completed
